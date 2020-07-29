@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "page12.html",
+    "name": "Construction Company Ltd",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,20 +43,28 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 192,
+    "uniqCompNum": 198,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Brunner Company Limited",
-        "meta_descr": "Construction Site !",
+        "meta_descr": "Construction Company Ltd",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/905121e67196697d4f3c03e815d7f0e6-1-122x98.png"
       },
       "components": [
         {
