@@ -846,6 +846,30 @@ section.lazy-placeholder:after {
 .cid-s06Vrrfcnz .mbr-section-title {
   color: #e4d295;
 }
+.cid-s92Wta1VPc {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-s92Wta1VPc .title {
+  margin-bottom: 2rem;
+}
+.cid-s92Wta1VPc .mbr-section-subtitle {
+  color: #e4d295;
+}
+.cid-s92Wta1VPc a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s92Wta1VPc a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s92Wta1VPc textarea.form-control {
+  min-height: 188px;
+}
+.cid-s92Wta1VPc H2 {
+  color: #e4d295;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #232323;
